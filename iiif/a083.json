@@ -2,14 +2,14 @@
   "@context": [
     "http://iiif.io/api/presentation3/context.json"
   ],
-  "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json",
+  "id": "https://thanneken.github.io/tei2edition/iiif/a083.json",
   "type": "AnnotationPage",
   "items": [
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083r",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083r",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=0,0,6132,8176",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=0,0,6132,8176",
       "body": [
         {
           "type": "TextualBody",
@@ -19,639 +19,639 @@
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a1",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a1",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,1664,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,1664,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a1\">[10] et inhabitauit illic </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a1\">[10] et inhabitauit illic </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a2",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a2",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,1876,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,1876,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a2\">annis duob\u00b7 </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a2\">annis duob\u00b7 </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a3",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a3",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,2088,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,2088,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a3\">Et promouit inde </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a3\">Et promouit inde </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a4",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a4",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,2300,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,2300,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a4\">in austrum usq\u00b7 ba-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a4\">in austrum usq\u00b7 ba-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a5",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a5",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,2512,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,2512,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a5\">-halot et facta est </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a5\">-halot et facta est </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a6",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a6",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,2724,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,2724,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a6\">famis super terra\u02d9 </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a6\">famis super terra\u02d9 </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a7",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a7",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,2936,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,2936,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a7\">[11] et abiit abram in ae-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a7\">[11] et abiit abram in ae-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a8",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a8",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,3148,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,3148,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a8\">-gyptum anno tertio </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a8\">-gyptum anno tertio </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a9",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a9",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,3360,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,3360,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a9\">septimani et inha-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a9\">septimani et inha-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a10",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a10",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,3572,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,3572,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a10\">-bitauit in terram </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a10\">-bitauit in terram </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a11",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a11",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,3784,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,3784,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a11\">aegypti quinq\u00b7 annis </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a11\">aegypti quinq\u00b7 annis </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a12",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a12",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,3996,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,3996,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a12\">priusquam rapere-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a12\">priusquam rapere-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a13",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a13",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,4208,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,4208,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a13\">-tur uxor ipsius ab eo </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a13\">-tur uxor ipsius ab eo </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a14",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a14",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,4420,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,4420,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a14\">[12] et taneos ciuitas ae-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a14\">[12] et taneos ciuitas ae-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a15",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a15",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,4632,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,4632,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a15\">-gypti tunc aedifica-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a15\">-gypti tunc aedifica-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a16",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a16",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,4844,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,4844,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a16\">-ta est annis septem </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a16\">-ta est annis septem </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a17",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a17",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,5056,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,5056,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a17\">post cebron </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a17\">post cebron </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a18",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a18",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,5268,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,5268,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a18\">[13] Et factum est cum </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a18\">[13] Et factum est cum </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a19",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a19",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,5480,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,5480,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a19\">rapuisset farao sa-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a19\">rapuisset farao sa-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a20",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a20",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,5692,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,5692,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a20\">-ram uxorem abra\u02d9 </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a20\">-ram uxorem abra\u02d9 </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a21",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a21",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,5904,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,5904,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a21\">quaestionauit dn\u0305s </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a21\">quaestionauit dn\u0305s </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a22",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a22",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,6116,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,6116,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a22\">faraonem et domu\u02d9 </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a22\">faraonem et domu\u02d9 </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a23",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a23",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,6328,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,6328,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a23\">eius quaestionib\u00b7 </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a23\">eius quaestionib\u00b7 </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083a24",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083a24",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=596,6540,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=596,6540,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083a24\">magnis propter </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083a24\">magnis propter </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b1",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b1",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,1664,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,1664,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b1\">saram uxorem abra\u02d9 </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b1\">saram uxorem abra\u02d9 </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b2",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b2",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,1876,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,1876,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b2\">[14] et tunc abram glo-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b2\">[14] et tunc abram glo-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b3",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b3",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,2088,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,2088,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b3\">-rificauit diuitiis ual-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b3\">-rificauit diuitiis ual-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b4",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b4",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,2300,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,2300,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b4\">-de omnib\u00b7 ouib\u00b7 et </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b4\">-de omnib\u00b7 ouib\u00b7 et </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b5",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b5",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,2512,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,2512,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b5\">bubus et asinis et </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b5\">bubus et asinis et </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b6",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b6",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,2724,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,2724,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b6\">camelis et equis et </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b6\">camelis et equis et </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b7",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b7",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,2936,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,2936,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b7\">seruis et ancillis </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b7\">seruis et ancillis </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b8",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b8",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,3148,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,3148,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b8\">argento et aro ual-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b8\">argento et aro ual-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b9",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b9",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,3360,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,3360,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b9\">-de etenim et loth </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b9\">-de etenim et loth </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b10",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b10",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,3572,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,3572,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b10\">filio fratris sui e-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b10\">filio fratris sui e-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b11",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b11",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,3784,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,3784,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b11\">-rant diuitiae [15] Et red-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b11\">-rant diuitiae [15] Et red-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b12",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b12",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,3996,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,3996,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b12\">-didit farao saram </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b12\">-didit farao saram </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b13",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b13",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,4208,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,4208,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b13\">uxorem abram uiro </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b13\">uxorem abram uiro </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b14",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b14",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,4420,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,4420,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b14\">suo et eiecit eum </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b14\">suo et eiecit eum </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b15",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b15",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,4632,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,4632,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b15\">de terra aegypti </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b15\">de terra aegypti </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b16",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b16",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,4844,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,4844,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b16\">et peruenit in locu\u02d9 </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b16\">et peruenit in locu\u02d9 </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b17",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b17",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,5056,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,5056,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b17\">ubi fixerat taber-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b17\">ubi fixerat taber-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b18",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b18",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,5268,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,5268,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b18\">-naculum suum in </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b18\">-naculum suum in </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b19",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b19",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,5480,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,5480,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b19\">primis in locum al-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b19\">primis in locum al-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b20",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b20",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,5692,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,5692,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b20\">-tarii agge ad orien-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b20\">-tarii agge ad orien-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b21",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b21",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,5904,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,5904,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b21\">-tis partem et betel </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b21\">-tis partem et betel </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b22",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b22",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,6116,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,6116,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b22\">a mare et benedixit </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b22\">a mare et benedixit </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b23",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b23",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,6328,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,6328,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b23\">dnm dm suum qui </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b23\">dnm dm suum qui </a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b24",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b24",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=3096,6540,2200,204",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=3096,6540,2200,204",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b24\">reuocauit eum in pa-</a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b24\">reuocauit eum in pa-</a>"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json/a083b25",
+      "id": "https://thanneken.github.io/tei2edition/iiif/a083.json/a083b25",
       "type": "Annotation",
       "motivation": "commenting",
-      "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083#xywh=5064,6662,222,108",
+      "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083#xywh=5064,6662,222,108",
       "body": [
         {
           "type": "TextualBody",
           "language": "la",
-          "value": "<a target=\"text\" href=\"https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html#o083b25\">-ce </a>"
+          "value": "<a target=\"text\" href=\"https://thanneken.github.io/tei2edition/text.html#o083b25\">-ce </a>"
         }
       ]
     }

@@ -2,11 +2,10 @@
 import json
 import lxml.etree as ET
 
-baseUri = 'https://palimpsest.stmarytx.edu/latinmoses/iiif'
-baseUri = 'https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif'
+baseUri = 'https://thanneken.github.io/tei2edition/iiif'
+hypertext = 'https://thanneken.github.io/tei2edition/text.html'
 print("Using URI %s"%(baseUri))
 teiFile = 'tei.xml'
-hypertext = 'https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/text.html'
 ns = {'tei':'http://www.tei-c.org/ns/1.0','xml':'http://www.w3.org/XML/1998/namespace'}
 terminalElements = [ 
 	'{http://www.tei-c.org/ns/1.0}lb' , 

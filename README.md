@@ -2,9 +2,17 @@
 
 Create a scholarly edition with multiple visualizations from a single file in TEI (Text Encoding Initiative)
 
+Preview a two-page sample of three visualizations of Latin Moses:
+
+- [Mirador](https://thanneken.github.io/tei2edition/mirador.html)
+- [Print](https://thanneken.github.io/tei2edition/text.pdf)
+- [Hypertext](https://thanneken.github.io/tei2edition/text.html)
+
 ---
 
 This repository collects files used by the Jubilees Palimpsest Project to create a scholarly edition of Latin Moses. 
+The template provided here could be used to create scholarly editions of other texts. 
+
 Latin Moses is a collection of writings attributed to Moses preserved in Latin in a single manuscript copied in the fifth century and palimpsested (rescraped to copy a new text) in the eighth century. 
 The collection includes what scholars call Latin Jubilees (also preserved in Ethiopic and some Dead Sea Scroll fragments) and the Testament of Moses (not otherwise preserved). 
 For more on the broader project, see https://palimpsest.stmarytx.edu. 

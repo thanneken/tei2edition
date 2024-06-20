@@ -2,7 +2,7 @@
   "@context": [
     "http://iiif.io/api/presentation3/context.json"
   ],
-  "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json",
+  "id": "https://thanneken.github.io/tei2edition/iiif/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -130,7 +130,7 @@
   },
   "items": [
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083",
+      "id": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083",
       "type": "Canvas",
       "label": {
         "none": [
@@ -141,15 +141,15 @@
       "width": 6132,
       "items": [
         {
-          "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083/annotationpage",
+          "id": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083/annotationpage",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/3/context.json",
-              "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083/annotationpage/cube",
+              "id": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083/annotationpage/cube",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083",
+              "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a083",
               "body": {
                 "type": "Choice",
                 "items": [
@@ -370,13 +370,13 @@
       ],
       "annotations": [
         {
-          "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json",
+          "id": "https://thanneken.github.io/tei2edition/iiif/a083.json",
           "type": "AnnotationPage"
         }
       ]
     },
     {
-      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a084",
+      "id": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a084",
       "type": "Canvas",
       "label": {
         "none": [
@@ -387,15 +387,15 @@
       "width": 6132,
       "items": [
         {
-          "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a084/annotationpage",
+          "id": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a084/annotationpage",
           "type": "AnnotationPage",
           "items": [
             {
               "@context": "http://iiif.io/api/presentation/3/context.json",
-              "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a084/annotationpage/cube",
+              "id": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a084/annotationpage/cube",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a084",
+              "target": "https://thanneken.github.io/tei2edition/iiif/manifest.json/a084",
               "body": {
                 "type": "Choice",
                 "items": [
@@ -616,7 +616,7 @@
       ],
       "annotations": [
         {
-          "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a084.json",
+          "id": "https://thanneken.github.io/tei2edition/iiif/a084.json",
           "type": "AnnotationPage"
         }
       ]

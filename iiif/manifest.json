@@ -1,0 +1,625 @@
+{
+  "@context": [
+    "http://iiif.io/api/presentation3/context.json"
+  ],
+  "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Latin Moses"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Compilation of Latin Jubilees and the Testament of Moses copied in the fifth century and preserved only in Milan, Biblioteca Ambrosiana, C73 inf"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "editor"
+        ]
+      },
+      "value": {
+        "en": [
+          "Todd R. Hanneken"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "editor"
+        ]
+      },
+      "value": {
+        "en": [
+          "David T. Gura"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "editor"
+        ]
+      },
+      "value": {
+        "en": [
+          "Federico Gallo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "2024"
+        ]
+      }
+    }
+  ],
+  "provider": [
+    {
+      "id": "https://jubilees.stmarytx.edu/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "The Jubilees Palimpsest Project"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://jubilees.stmarytx.edu/",
+          "type": "Text",
+          "label": {
+            "none": [
+              "https://jubilees.stmarytx.edu/"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://palimpsest.stmarytx.edu/iiif/Logo-JubPalProj.jp2/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpg",
+          "width": 380,
+          "height:": 300,
+          "service": [
+            {
+              "id": "https://palimpsest.stmarytx.edu/iiif/Logo-JubPalProj.jp2",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://jubilees.stmarytx.edu/",
+      "type": "Text",
+      "label": {
+        "none": [
+          "https://jubilees.stmarytx.edu/"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "rights": "http://creativecommons.org/licenses/by-nc/4.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Creative Commons License for Non-Commerical Use with Attribution to Jubilees Palimpseset Project and Veneranda Biblioteca Ambrosiana"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Page 083 (19c062)"
+        ]
+      },
+      "height": 8176,
+      "width": 6132,
+      "items": [
+        {
+          "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083/annotationpage/cube",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a083",
+              "body": {
+                "type": "Choice",
+                "items": [
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_00.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Diffuse"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_00.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_51.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Raking NE"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_51.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_55.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Raking SE"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_55.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_07.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Raking SW"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_07.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_02.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Raking NW"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_02.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_Tx.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Transmissive"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_Tx.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_TRH01_00.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "TRH01 Diffuse"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_TRH01_00.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_KTK01_00.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "KTK Ruby Diffuse"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_KTK01_00.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_microfilm.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 786,
+                    "height": 5100,
+                    "label": {
+                      "en": [
+                        "Microfilm"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_microfilm.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ceriani1861-15.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 5169,
+                    "height": 7429,
+                    "label": {
+                      "en": [
+                        "Ceriani1861"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ceriani1861-15.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Xs_00.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Extended Spectrum Diffuse"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Xs_00.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a083.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a084",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Page 084 (19c061)"
+        ]
+      },
+      "height": 8176,
+      "width": 6132,
+      "items": [
+        {
+          "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a084/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a084/annotationpage/cube",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/manifest.json/a084",
+              "body": {
+                "type": "Choice",
+                "items": [
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_00.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Diffuse"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_00.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_07.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Raking NE"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_07.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_02.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Raking SE"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_02.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_51.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Raking SW"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_51.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_55.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Raking NW"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_55.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_Tx.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Accurate Color Transmissive"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_Tx.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_TRH01_00.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "TRH01 Diffuse"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_TRH01_00.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_KTK01_00.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "KTK Ruby Diffuse"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_KTK01_00.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_microfilm.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 5100,
+                    "height": 786,
+                    "label": {
+                      "en": [
+                        "Microfilm"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_microfilm.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ceriani1861-15.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 5169,
+                    "height": 7429,
+                    "label": {
+                      "en": [
+                        "Ceriani1861"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ceriani1861-15.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Xs_00.jp2/full/full/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 6132,
+                    "height": 8176,
+                    "label": {
+                      "en": [
+                        "Extended Spectrum Diffuse"
+                      ]
+                    },
+                    "service": [
+                      {
+                        "id": "https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Xs_00.jp2",
+                        "type": "ImageService3",
+                        "profile": "level2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://palimpsest.stmarytx.edu/thanneken/2024/dh2024/code/iiif/a084.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+\documentclass[letterpaper,twoside]{extbook}
+\usepackage[oldstyle,proportional]{libertine}
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage{polyglossia}
+\usepackage{bookmark}
+\hypersetup{pdftitle={Latin Moses},pdfauthor={Todd R. Hanneken},pdfborder={0 0 0}}
+\usepackage[12pt]{extsizes}
+\usepackage[bindingoffset=0in,inner=1.8in,outer=2in,top=1.5in,bottom=1.5in]{geometry}
+\usepackage{fancyhdr}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt} % remove the header
+\pagestyle{fancy}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[CE]{\textsc{Gura, Gallo, and Hanneken}}
+\fancyhead[CO]{\textsc{Latin Moses}}
+\setmainlanguage{latin}
+\setotherlanguage{english}
+\usepackage[series={A,B},noend,noeledsec]{reledmac}
+\usepackage[shiftedpstarts]{reledpar}
+\Xarrangement[A]{paragraph}
+\Xarrangement[B]{paragraph}
+% set the space before each series of notes
+\Xbeforenotes[A]{18pt}
+\Xbeforenotes[B]{18pt}
+\Xlemmadisablefontselection[A] % Prevents the lemma from having the same characteristics as in the text (bold, italics, etc.)
+\Xnotenumfont{\normalfont\bfseries} % To print the line number in bold in the apparatus...
+\lineation{section}
+\setlength{\stanzaindentbase}{20pt}
+\setstanzaindents{1,1}
+\setcounter{stanzaindentsrepetition}{1}
+\firstlinenum{0}
+\linenumincrement{999}
+\linenummargin{outer}
+\Xnumberonlyfirstinline[]
+\Xnumberonlyfirstintwolines[]
+\Xsymlinenum{}
+\fnpos{critical-familiar}
+\renewcommand*{\thefootnoteA}{\alph{footnoteA}}
+\title{Latin Moses}
+\author{}
+\date{2024}
+\makeatletter
+\newcommand{\TEIsection}[1]{\vspace{0.5cm}\noindent\large\textit{#1}\vspace{0.3cm}}\par\nobreak\vspace{-\parskip}\@afterheading\noindent
+\makeatother
+\begin{document}
+\parindentX
+\raggedbottom
+\sidenotemargin{outer}
+\pagenumbering{arabic}
+\setcounter{page}{49}
+\fancyhead[CE]{\textsc{Fragmenta Parvae Genesis}}
+\fancyhead[CO]{\textsc{Latin Jubilees}}
+\begin{pages}
+\begin{Leftside}
+\beginnumbering
+\startlock
+\pstart
+\TEIsection{Fragmenta Parvae Genesis}
+\pend
+\pstart
+\ledouternote{Cap. 13}
+\setline{10}\textsuperscript{10}\,…et inhabitauit illic annis duobus. Et promouit inde in austrum usque Bahalot et facta est famis super terram. 
+\setline{11}\textsuperscript{11}\,Et abiit Abram in Aegyptum anno tertio septimani et inhabitauit in terram Aegypti quinque annis priusquam raperetur uxor ipsius ab eo. 
+\setline{12}\textsuperscript{12}\,Et Taneos ciuitas Aegypti tunc aedificata est annis septem post Cebron. 
+\setline{13}\textsuperscript{13}\,Et factum est cum rapuisset Farao Saram uxorem Abram quaestionauit Dominus Faraonem et domum eius quaestionibus magnis propter Saram uxorem Abram. 
+\setline{14}\textsuperscript{14}\,Et tunc Abram glorificauit diuitiis ualde omnibus ouibus et bubus et asinis et camelis et equis et seruis et ancillis argento et aro ualde etenim et Loth filio fratris sui erant diuitiae. 
+\setline{15}\textsuperscript{15}\,Et reddidit Farao Saram uxorem Abram uiro suo et eiecit eum de terra Aegypti et peruenit in locum ubi fixerat tabernaculum suum in primis in locum altarii Agge ad orientis partem et Betel a mare et benedixit Dominum Deum suum qui reuocauit eum in pace. 
+\setline{16}\textsuperscript{16}\,Et factum est in\edtext{ quadragesimo}{\Afootnote{\emph{Denis} :  quadragensimo \emph{A}}} et primo iubeleo anno tertio ebdomadarum primi reuersus est in locum hunc et obtulit olocaustomata et inuocauit in nomine Domini, “Tu es Deus excelsus, Deus meus in saecula saeculorum.” 
+\pend\pstart
+
+\setline{17}\textsuperscript{17}\,Et in no quarto septimanarum huius separatus est Loth ab ipso et inhabitauit Sodomis. Et homines Sodomitae peccatores erant ualde et iniqui in cordibus suis. 
+\setline{18}\textsuperscript{18}\,Propter quod separatus est Loth filius fratris sui ab eo, eo quod non erant illi filii. 
+\setline{19}\textsuperscript{19}\,Captiuatus est Loth ab ipso. In quarto autem anno septimani huius iubelei ipsius dixit Deus ad Abram, “Eleua oculos tuos de loco ubi sedes tu ad occasum et Africum et orientem et septentrionem
+\setline{20}\textsuperscript{20}\, quoniam omnem terram\edtext{ quam}{\Afootnote{\emph{Rönsch} : quan \emph{A}}} tu uides tibi et semini tuo dabo eam in saecula et ponam semen tuum sicut harena maris etenim semen tuum non enumerabitur. 
+\setline{21}\textsuperscript{21}\,Et tu exsurgens perambula latitudinem eius et uide uniuersa quia semini tuo dabo eam.” Et abiit Abram in Cebron et inhabitauit… 
+\pend\endlock
+\endnumbering
+\end{Leftside}
+\begin{Rightside}
+\beginnumbering
+\firstlinenumR{1000000000}
+\pstart
+\TEIsection{Latin Jubilees}
+\pend
+\pstart
+\ledouternote{Ch. 13}
+\setline{10}\textsuperscript{10}\,... he stayed there for two years. Then he went to the southern territory as far as Bahalot. There was a famine in the land. 
+\setline{11}\textsuperscript{11}\,So Abram went to Egypt in the third year of the week. He lived in the land of Egypt for five years before his wife was taken from him by force. 
+\setline{12}\textsuperscript{12}\,Tanais, the Egyptian city, was built at that time — seven years after Hebron. 
+\setline{13}\textsuperscript{13}\,When the pharaoh took Abram's wife Sarah by force, the Lord punished the pharaoh and his household very severely because of Abram's wife Sarah. 
+\setline{14}\textsuperscript{14}\,At that time he made Abram extremely wealthy with all (kinds of) sheep, cattle, donkeys, camels, horses, male and female servants, silver and very (much) gold. Lot — his brother's son — was also wealthy. 
+\setline{15}\textsuperscript{15}\,The pharaoh returned Abram's wife Sarah to her husband and expelled him from the land of Egypt. He went to the place where he had first pitched his tent — at the location of the altar, with Ai on the east side and Bethel on the west. He blessed the Lord his God who had brought him back safely.
+\setline{16}\textsuperscript{16}\,During the forty-first jubilee, in the third year of the first week, he returned to this place. He offered sacrifices and called on the Lord's name: 'You, most high God, are my God forever and ever'.
+\pend\pstart
+
+\setline{17}\textsuperscript{17}\,In the fourth year of this week Lot separated from him. He settled in Sodom. Now the Sodomite people were very sinful. 
+\setline{18}\textsuperscript{18}\,They were evil in their hearts that Lot, his brother's son, had separated from him for he had no children. 
+\setline{19}\textsuperscript{19}\,Lot was taken captive from him. But in the fourth year of this week — of the same jubilee — God said to Abram: 'Look up from where you are staying toward the west, the south, the east, and the north; 
+\setline{20}\textsuperscript{20}\,because all the land which you see I will give to you and your descendants forever. I will make your descendants like the sands of the sea, for your descendants will not be counted. 
+\setline{21}\textsuperscript{21}\,Now you — get up and walk its width. Look at everything because I will give it to your descendants'. Then Abram went to Hebron and lived ...
+\pend\endnumbering
+\end{Rightside}
+\end{pages}
+\Pages
+\end{document}

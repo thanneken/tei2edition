@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI SYSTEM "tei_tc.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="supplied" resp="#trh">Latin Moses</title>
+				<editor sameAs="#trh">Todd R. Hanneken</editor>
+				<editor sameAs="#dtg">David T. Gura</editor>
+				<editor sameAs="#fg">Federico Gallo</editor>
+      </titleStmt>
+			<editionStmt>
+				<edition>Compilation of Latin Jubilees and the Testament of Moses copied in the fifth century and preserved only in Milan, Biblioteca Ambrosiana, C73 inf</edition>
+			</editionStmt>
+      <publicationStmt>
+        <publisher ref="https://jubilees.stmarytx.edu/">The Jubilees Palimpsest Project<graphic width="380" height="300" url="https://palimpsest.stmarytx.edu/iiif/Logo-JubPalProj.jp2/full/full/0/default.jpg"/></publisher>
+        <availability status="free" resp="#trh">
+					<ab>Creative Commons License for Non-Commerical Use with Attribution to Jubilees Palimpseset Project and Veneranda Biblioteca Ambrosiana</ab>
+          <licence>
+            <ref target="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</ref>
+          </licence>
+        </availability>
+        <date when="2024">2024</date>
+      </publicationStmt>
+      <sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>C73 inf</idno>
+						<altIdentifier>
+							<idno>S.P. 9/9-10</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<msContents>
+						<msItem xml:id="LatinMoses" facs="https://palimpsest.stmarytx.edu/latinmoses/iiif/manifest.json" defective="true">
+							<locus scheme="original" from="1" to="272"/>
+							<locus scheme="modern" from="49" to="144"/>
+							<title type="supplied">Latin Moses</title>
+							<textLang mainLang="la"/>
+							<msItem defective="true">
+								<locus scheme="original" from="1" to="256"/>
+								<locusGrp scheme="modern">
+									<locus from="49" to="66"/>
+									<locus from="69" to="76"/>
+									<locus from="79" to="84"/>
+									<locus from="87" to="90"/>
+									<locus from="93" to="96"/>
+									<locus from="101" to="108"/>
+									<locus from="113" to="144"/>
+								</locusGrp>
+								<title type="supplied">Latin Jubilees</title>
+								<textLang mainLang="la"/>
+							</msItem>
+							<msItem defective="true">
+								<locus scheme="original" from="257" to="272"/>
+								<locusGrp scheme="modern">
+									<locus from="67" to="68"/>
+									<locus from="77" to="78"/>
+									<locus from="85" to="86"/>
+									<locus from="91" to="92"/>
+									<locus from="97" to="100"/>
+									<locus from="109" to="112"/>
+								</locusGrp>
+								<title type="supplied">Testament of Moses</title>
+								<textLang mainLang="la"/>
+							</msItem>
+						</msItem>
+						<msItem xml:id="CommentaryLuke" facs="https://palimpsest.stmarytx.edu/iiifp/OnLuke/manifest.json" defective="true">
+							<locus scheme="modern" from="1" to="48"/>
+							<title type="supplied">Latin Commentary on Luke</title>
+							<textLang mainLang="la"/>
+						</msItem>
+						<msItem xml:id="Eugippius" defective="true">
+							<locus scheme="modern" from="1" to="144"/>
+							<author>Eugippius</author>
+							<title>Anthology of Augustine</title>
+							<textLang mainLang="la"/>
+						</msItem>
+						<msItem>
+							<title>Modern frontmatter</title>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="codex">
+							<supportDesc material="perg">
+								<support>
+									<material function="support">parchment</material>
+								</support>
+								<extent>
+									Latin Moses was originally at least 272 pages, of which 96 are preserved. 
+									Today an additional 48 pages of Latin Commentary on Luke are preserved with the manuscript.
+									<dimensions scope="all" type="leaf">
+										<height quantity="29" unit="cm" resp="#Ceriani1861"/>
+										<width quantity="24" unit="cm" resp="#Ceriani1861"/>
+									</dimensions>
+								</extent>
+								<foliation xml:id="modern">
+									<p>
+										Modern page numbers (not folio numbers) were added using Arabic numerals in upper outside corners relative to the palimpsest orientation (Eugippius). 
+									</p>
+								</foliation>
+								<foliation xml:id="original">
+									<p>
+										The original fifth century manuscript contained more than 272 pages.
+										We know the Testament of Moses ends abruptly, but do not know how many pages followed.
+										We know from quire signatures that the Testament of Moses followed after Latin Jubilees.
+										If the length of Latin Jubilees corresponds to Ethiopic Jubilees there must have been compression of text or additional pages inserted.
+										Some quire signatures have been observed but all original page numbers are reconstructed.
+									</p>
+								</foliation>
+								<collation>
+									<signatures>Quire signatures were observed by <ref target="#hr">Rönsch</ref>.</signatures>
+									<p>
+										As of 2011 the bifolia are disbound and stored separately in protective folders. 
+										Most bifolia are intact. 
+										Some are split but stored with the original partner. 
+										In one case glue has created a false pair.
+									</p>
+									<p>See history, below, for how erased folios from two separate collections were combined in the eighth century.</p>
+									<p>
+										The reconstruction of the original codex is based on quire signatures and extrapolation based on the assumption that the extent of Latin Jubilees is comparable to Ethiopic Jubilees. 
+										The reconstructed collation can be visualized at 
+										<ptr target="https://jubilees.stmarytx.edu/LatinMosesReconstruction.html"/>.
+									</p>
+									<p>There is no evidence of collation other than standard quires.</p>
+								</collation>
+								<condition>
+									<p>
+										All pages are treated with at least one form of <material function="reagent">iron gall reagent</material>. 
+										Edges are worn but not as far as the main text columns.
+										Cockling is often 1 cm deep, as evident in raking illumination images. 
+										Ink has corroded through the parchment in places, as evident in transmissive illumination images.
+									</p>
+								</condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout corresp="#LatinMoses" columns="2" ruledLines="24"/>
+								<layout corresp="#CommentaryLuke" columns="1" ruledLines="22"/>
+								<layout corresp="#Eugippius" columns="1" ruledLines="35"/>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc>
+							<handNote corresp="#LatinMoses">
+								<p>
+									Written in <material function="ink">iron gall ink</material>.
+									No direct evidence of rubrication is preserved.
+									The complete absense of any trace of writing at the first three lines of the Testament of Moses is consistent with the possibility that a different ink was used for those three lines. 
+									The same hand seems to be responsible for all of Latin Moses. 
+									The difference between written words and roman numerals between Latin Jubilees and Testament of Moses could be attributed to the source documents.
+									A palaeography chart for Latin Moses is available online at 
+									<ptr target="https://jubilees.stmarytx.edu/annotations/LatinMosesPaleography.html"/>.
+									See <ref target="#Ceriani1861">Ceriani</ref> for more on the classification and dating of the script.
+								</p>
+							</handNote>
+							<handNote corresp="#CommentaryLuke">
+								<p>
+									Written in <material function="ink">iron gall ink</material> with frequent rubrication for lemmas from the Gospel of Luke.
+									See <ref target="#Gryson1982">Gryson</ref> for more detail.
+								</p>
+							</handNote>
+							<handNote corresp="#Eugippius">
+								<p>
+									<material function="ink">Iron gall ink</material>
+								</p>
+							</handNote>
+						</handDesc>
+						<bindingDesc>
+							<binding><p>Unbound as of 2011</p></binding>
+						</bindingDesc>
+					</physDesc>
+					<history>
+						<origin>
+							<p>
+								Originally copied in 
+								<origPlace>Northern Italy</origPlace>
+								in the 
+								<origDate notBefore="401" notAfter="500">fifth century</origDate>.
+							</p>
+						</origin>
+						<provenance>
+							<p>Catalogued at the Bobbio monastery in <date when="1461">1461</date>.</p>
+						</provenance>
+						<acquisition>
+							<p>Acquired for the Biblioteca Ambrosiana by <name type="person" ref="#fb">Federico Borromeo</name> in <date when="1606">1606</date>.</p>
+							<p>See further, <ref target="https://palimpsest.stmarytx.edu/Hanneken_2019_BookJubileesLatin.html">Hanneken, The Book of Jubilees in Latin</ref>.</p>
+						</acquisition>
+					</history>
+				</msDesc>
+				<listPerson>
+					<person xml:id="fb">
+						<persName>
+							<surname>Borromeo</surname>
+							<forename>Federico</forename>
+						</persName>
+						<ptr target="https://en.wikipedia.org/wiki/Federico_Borromeo"/>
+					</person>
+					<person xml:id="amc">
+						<persName>
+							<surname>Ceriani</surname>
+							<forename>Antonio Maria</forename>
+						</persName>
+						<ptr target="https://en.wikipedia.org/wiki/Antonio_Maria_Ceriani"/>
+					</person>
+					<person xml:id="rhc">
+						<persName>
+							<surname>Charles</surname>
+							<forename>Robert Henry</forename>
+						</persName>
+						<ptr target="https://en.wikipedia.org/wiki/Robert_Charles_(scholar)"/>
+					</person>
+					<person xml:id="amd">
+						<persName>
+							<surname>Denis</surname>
+							<forename>Albert-Marie</forename> 
+						</persName> 
+						<ptr target="https://www.wikidata.org/wiki/Q85709166"/> 
+					</person> 
+					<person xml:id="dtg"> 
+						<persName> 
+							<surname>Gura</surname>
+							<forename>David T.</forename>
+						</persName>
+						<ptr target="https://davidtgura.com/"/>
+					</person>
+					<person xml:id="trh">
+						<persName>
+							<surname>Hanneken</surname>
+							<forename>Todd R.</forename>
+						</persName>
+						<ptr target="https://jubilees.stmarytx.edu/thanneken/"/>
+					</person>
+					<person xml:id="am">
+						<persName>
+							<surname>Mai</surname>
+							<forename>Angelo</forename>
+						</persName>
+						<ptr target="https://en.wikipedia.org/wiki/Angelo_Mai"/>
+					</person>
+					<person xml:id="hr">
+						<persName>
+							<surname>Rönsch</surname>
+							<forename>Hermann</forename>
+						</persName>
+						<ptr target="https://de.wikipedia.org/wiki/Hermann_R%C3%B6nsch"/>
+					</person>
+				</listPerson>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+      <p>Space between words and punctuation are not marked in the manuscript and are included here by modern editors.</p>
+			<p>Incipits and slightly larger letters within a line are represented here with upper-case letters.</p>
+			<p>
+				All xml:ids must begin with a non-digit:
+				a represents annotation;
+				n represents note;
+				o represents orignal;
+				p represents palimpsest or modern pagination;
+				s represents segment or sentence;
+				t represents translation;
+				v represents verse;
+				w represents word;
+			</p>
+    </encodingDesc>
+    <revisionDesc>
+			<change notBefore="700" notAfter="799" xml:id="palimpsest">>8th century palimpsest</change>
+      <change when="2022-07-28" who="#trh">First draft of a demonstration using two pages from Latin Jubilees</change>
+			<change when="2022-11-23" who="#trh">Revision to use element app rather than element choice</change>
+    </revisionDesc>
+  </teiHeader>
+
+	<facsimile>
+		<surface xml:id="a083" corresp="https://palimpsest.stmarytx.edu/iiifp/LatinMoses/canvas/5c083" n="Page 083 (19c062)" start="#t083" ulx="0" uly="0" lrx="6132" lry="8176">
+			<graphic width="6132" height="8176" n="Accurate Color Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_00.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Raking NE" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_51.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Raking SE" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_55.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Raking SW" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_07.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Raking NW" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_02.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Transmissive" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_Tx.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="TRH01 Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_TRH01_00.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="KTK Ruby Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_KTK01_00.jp2/full/full/0/default.jpg" />
+			<graphic width="786" height="5100" n="Microfilm" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_microfilm.jp2/full/full/0/default.jpg" />
+			<graphic width="5169" height="7429" n="Ceriani1861" url="https://palimpsest.stmarytx.edu/iiif/Ceriani1861-15.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Extended Spectrum Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Xs_00.jp2/full/full/0/default.jpg" />
+			<media xml:id="a083r" url="https://palimpsest.stmarytx.edu/relight/Ambrosiana_C73inf_083.html" type="Relight" mimeType="text/html" />
+			<line xml:id="a083a1" corresp="#o083a1" ulx="596" lrx="2796" uly="1664" lry="1868" />
+			<line xml:id="a083a2" corresp="#o083a2" ulx="596" lrx="2796" uly="1876" lry="2080" />
+			<line xml:id="a083a3" corresp="#o083a3" ulx="596" lrx="2796" uly="2088" lry="2292" />
+			<line xml:id="a083a4" corresp="#o083a4" ulx="596" lrx="2796" uly="2300" lry="2504" />
+			<line xml:id="a083a5" corresp="#o083a5" ulx="596" lrx="2796" uly="2512" lry="2716" />
+			<line xml:id="a083a6" corresp="#o083a6" ulx="596" lrx="2796" uly="2724" lry="2928" />
+			<line xml:id="a083a7" corresp="#o083a7" ulx="596" lrx="2796" uly="2936" lry="3140" />
+			<line xml:id="a083a8" corresp="#o083a8" ulx="596" lrx="2796" uly="3148" lry="3352" />
+			<line xml:id="a083a9" corresp="#o083a9" ulx="596" lrx="2796" uly="3360" lry="3564" />
+			<line xml:id="a083a10" corresp="#o083a10" ulx="596" lrx="2796" uly="3572" lry="3776" />
+			<line xml:id="a083a11" corresp="#o083a11" ulx="596" lrx="2796" uly="3784" lry="3988" />
+			<line xml:id="a083a12" corresp="#o083a12" ulx="596" lrx="2796" uly="3996" lry="4200" />
+			<line xml:id="a083a13" corresp="#o083a13" ulx="596" lrx="2796" uly="4208" lry="4412" />
+			<line xml:id="a083a14" corresp="#o083a14" ulx="596" lrx="2796" uly="4420" lry="4624" />
+			<line xml:id="a083a15" corresp="#o083a15" ulx="596" lrx="2796" uly="4632" lry="4836" />
+			<line xml:id="a083a16" corresp="#o083a16" ulx="596" lrx="2796" uly="4844" lry="5048" />
+			<line xml:id="a083a17" corresp="#o083a17" ulx="596" lrx="2796" uly="5056" lry="5260" />
+			<line xml:id="a083a18" corresp="#o083a18" ulx="596" lrx="2796" uly="5268" lry="5472" />
+			<line xml:id="a083a19" corresp="#o083a19" ulx="596" lrx="2796" uly="5480" lry="5684" />
+			<line xml:id="a083a20" corresp="#o083a20" ulx="596" lrx="2796" uly="5692" lry="5896" />
+			<line xml:id="a083a21" corresp="#o083a21" ulx="596" lrx="2796" uly="5904" lry="6108" />
+			<line xml:id="a083a22" corresp="#o083a22" ulx="596" lrx="2796" uly="6116" lry="6320" />
+			<line xml:id="a083a23" corresp="#o083a23" ulx="596" lrx="2796" uly="6328" lry="6532" />
+			<line xml:id="a083a24" corresp="#o083a24" ulx="596" lrx="2796" uly="6540" lry="6744" />
+			<line xml:id="a083b1" corresp="#o083b1" ulx="3096" lrx="5296" uly="1664" lry="1868" />
+			<line xml:id="a083b2" corresp="#o083b2" ulx="3096" lrx="5296" uly="1876" lry="2080" />
+			<line xml:id="a083b3" corresp="#o083b3" ulx="3096" lrx="5296" uly="2088" lry="2292" />
+			<line xml:id="a083b4" corresp="#o083b4" ulx="3096" lrx="5296" uly="2300" lry="2504" />
+			<line xml:id="a083b5" corresp="#o083b5" ulx="3096" lrx="5296" uly="2512" lry="2716" />
+			<line xml:id="a083b6" corresp="#o083b6" ulx="3096" lrx="5296" uly="2724" lry="2928" />
+			<line xml:id="a083b7" corresp="#o083b7" ulx="3096" lrx="5296" uly="2936" lry="3140" />
+			<line xml:id="a083b8" corresp="#o083b8" ulx="3096" lrx="5296" uly="3148" lry="3352" />
+			<line xml:id="a083b9" corresp="#o083b9" ulx="3096" lrx="5296" uly="3360" lry="3564" />
+			<line xml:id="a083b10" corresp="#o083b10" ulx="3096" lrx="5296" uly="3572" lry="3776" />
+			<line xml:id="a083b11" corresp="#o083b11" ulx="3096" lrx="5296" uly="3784" lry="3988" />
+			<line xml:id="a083b12" corresp="#o083b12" ulx="3096" lrx="5296" uly="3996" lry="4200" />
+			<line xml:id="a083b13" corresp="#o083b13" ulx="3096" lrx="5296" uly="4208" lry="4412" />
+			<line xml:id="a083b14" corresp="#o083b14" ulx="3096" lrx="5296" uly="4420" lry="4624" />
+			<line xml:id="a083b15" corresp="#o083b15" ulx="3096" lrx="5296" uly="4632" lry="4836" />
+			<line xml:id="a083b16" corresp="#o083b16" ulx="3096" lrx="5296" uly="4844" lry="5048" />
+			<line xml:id="a083b17" corresp="#o083b17" ulx="3096" lrx="5296" uly="5056" lry="5260" />
+			<line xml:id="a083b18" corresp="#o083b18" ulx="3096" lrx="5296" uly="5268" lry="5472" />
+			<line xml:id="a083b19" corresp="#o083b19" ulx="3096" lrx="5296" uly="5480" lry="5684" />
+			<line xml:id="a083b20" corresp="#o083b20" ulx="3096" lrx="5296" uly="5692" lry="5896" />
+			<line xml:id="a083b21" corresp="#o083b21" ulx="3096" lrx="5296" uly="5904" lry="6108" />
+			<line xml:id="a083b22" corresp="#o083b22" ulx="3096" lrx="5296" uly="6116" lry="6320" />
+			<line xml:id="a083b23" corresp="#o083b23" ulx="3096" lrx="5296" uly="6328" lry="6532" />
+			<line xml:id="a083b24" corresp="#o083b24" ulx="3096" lrx="5296" uly="6540" lry="6744" />
+			<line xml:id="a083b25" corresp="#o083b25" ulx="5064" lrx="5286" uly="6662" lry="6770" />
+		</surface>
+		<surface xml:id="a084" corresp="https://palimpsest.stmarytx.edu/iiifp/LatinMoses/canvas/5c084" n="Page 084 (19c061)" start="#t084" ulx="0" uly="0" lrx="6132" lry="8176">
+			<graphic width="6132" height="8176" n="Accurate Color Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_00.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Raking NE" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_07.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Raking SE" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_02.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Raking SW" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_51.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Raking NW" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_55.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Accurate Color Transmissive" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_Tx.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="TRH01 Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_TRH01_00.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="KTK Ruby Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_KTK01_00.jp2/full/full/0/default.jpg" />
+			<graphic width="5100" height="786" n="Microfilm" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_microfilm.jp2/full/full/0/default.jpg" />
+			<graphic width="5169" height="7429" n="Ceriani1861" url="https://palimpsest.stmarytx.edu/iiif/Ceriani1861-15.jp2/full/full/0/default.jpg" />
+			<graphic width="6132" height="8176" n="Extended Spectrum Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Xs_00.jp2/full/full/0/default.jpg" />
+			<media xml:id="a084r" url="https://palimpsest.stmarytx.edu/relight/Ambrosiana_C73inf_084.html" type="Relight" mimeType="text/html"/>
+			<line xml:id="a084a1" corresp="#o084a1" ulx="825" lrx="3025" uly="1365" lry="1569" />
+			<line xml:id="a084a2" corresp="#o084a2" ulx="825" lrx="3025" uly="1577" lry="1781" />
+			<line xml:id="a084a3" corresp="#o084a3" ulx="825" lrx="3025" uly="1789" lry="1993" />
+			<line xml:id="a084a4" corresp="#o084a4" ulx="825" lrx="3025" uly="2001" lry="2205" />
+			<line xml:id="a084a5" corresp="#o084a5" ulx="825" lrx="3025" uly="2213" lry="2417" />
+			<line xml:id="a084a6" corresp="#o084a6" ulx="825" lrx="3025" uly="2425" lry="2629" />
+			<line xml:id="a084a7" corresp="#o084a7" ulx="825" lrx="3025" uly="2637" lry="2841" />
+			<line xml:id="a084a8" corresp="#o084a8" ulx="825" lrx="3025" uly="2849" lry="3053" />
+			<line xml:id="a084a9" corresp="#o084a9" ulx="825" lrx="3025" uly="3061" lry="3265" />
+			<line xml:id="a084a10" corresp="#o084a10" ulx="825" lrx="3025" uly="3273" lry="3477" />
+			<line xml:id="a084a11" corresp="#o084a11" ulx="825" lrx="3025" uly="3485" lry="3689" />
+			<line xml:id="a084a12" corresp="#o084a12" ulx="825" lrx="3025" uly="3697" lry="3901" />
+			<line xml:id="a084a13" corresp="#o084a13" ulx="825" lrx="3025" uly="3909" lry="4113" />
+			<line xml:id="a084a14" corresp="#o084a14" ulx="825" lrx="3025" uly="4121" lry="4325" />
+			<line xml:id="a084a15" corresp="#o084a15" ulx="825" lrx="3025" uly="4333" lry="4537" />
+			<line xml:id="a084a16" corresp="#o084a16" ulx="825" lrx="3025" uly="4545" lry="4749" />
+			<line xml:id="a084a17" corresp="#o084a17" ulx="825" lrx="3025" uly="4757" lry="4961" />
+			<line xml:id="a084a18" corresp="#o084a18" ulx="825" lrx="3025" uly="4969" lry="5173" />
+			<line xml:id="a084a19" corresp="#o084a19" ulx="825" lrx="3025" uly="5181" lry="5385" />
+			<line xml:id="a084a20" corresp="#o084a20" ulx="825" lrx="3025" uly="5393" lry="5597" />
+			<line xml:id="a084a21" corresp="#o084a21" ulx="825" lrx="3025" uly="5605" lry="5809" />
+			<line xml:id="a084a22" corresp="#o084a22" ulx="825" lrx="3025" uly="5817" lry="6021" />
+			<line xml:id="a084a23" corresp="#o084a23" ulx="825" lrx="3025" uly="6029" lry="6233" />
+			<line xml:id="a084a24" corresp="#o084a24" ulx="825" lrx="3025" uly="6241" lry="6445" />
+			<line xml:id="a084b1" corresp="#o084b1" ulx="3325" lrx="5525" uly="1365" lry="1569" />
+			<line xml:id="a084b2" corresp="#o084b2" ulx="3325" lrx="5525" uly="1577" lry="1781" />
+			<line xml:id="a084b3" corresp="#o084b3" ulx="3325" lrx="5525" uly="1789" lry="1993" />
+			<line xml:id="a084b4" corresp="#o084b4" ulx="3325" lrx="5525" uly="2001" lry="2205" />
+			<line xml:id="a084b5" corresp="#o084b5" ulx="3325" lrx="5525" uly="2213" lry="2417" />
+			<line xml:id="a084b6" corresp="#o084b6" ulx="3325" lrx="5525" uly="2425" lry="2629" />
+			<line xml:id="a084b7" corresp="#o084b7" ulx="3325" lrx="5525" uly="2637" lry="2841" />
+			<line xml:id="a084b8" corresp="#o084b8" ulx="3325" lrx="5525" uly="2849" lry="3053" />
+			<line xml:id="a084b9" corresp="#o084b9" ulx="3325" lrx="5525" uly="3061" lry="3265" />
+			<line xml:id="a084b10" corresp="#o084b10" ulx="3325" lrx="5525" uly="3273" lry="3477" />
+			<line xml:id="a084b11" corresp="#o084b11" ulx="3325" lrx="5525" uly="3485" lry="3689" />
+			<line xml:id="a084b12" corresp="#o084b12" ulx="3325" lrx="5525" uly="3697" lry="3901" />
+			<line xml:id="a084b13" corresp="#o084b13" ulx="3325" lrx="5525" uly="3909" lry="4113" />
+			<line xml:id="a084b14" corresp="#o084b14" ulx="3325" lrx="5525" uly="4121" lry="4325" />
+			<line xml:id="a084b15" corresp="#o084b15" ulx="3325" lrx="5525" uly="4333" lry="4537" />
+			<line xml:id="a084b16" corresp="#o084b16" ulx="3325" lrx="5525" uly="4545" lry="4749" />
+			<line xml:id="a084b17" corresp="#o084b17" ulx="3325" lrx="5525" uly="4757" lry="4961" />
+			<line xml:id="a084b18" corresp="#o084b18" ulx="3325" lrx="5525" uly="4969" lry="5173" />
+			<line xml:id="a084b19" corresp="#o084b19" ulx="3325" lrx="5525" uly="5181" lry="5385" />
+			<line xml:id="a084b20" corresp="#o084b20" ulx="3325" lrx="5525" uly="5393" lry="5597" />
+			<line xml:id="a084b21" corresp="#o084b21" ulx="3325" lrx="5525" uly="5605" lry="5809" />
+			<line xml:id="a084b22" corresp="#o084b22" ulx="3325" lrx="5525" uly="5817" lry="6021" />
+			<line xml:id="a084b23" corresp="#o084b23" ulx="3325" lrx="5525" uly="6029" lry="6233" />
+			<line xml:id="a084b24" corresp="#o084b24" ulx="3325" lrx="5525" uly="6241" lry="6445" />
+		</surface>
+	</facsimile>
+
+	<text>
+		<body xml:lang="la">
+		<div xml:id="LatinJubilees">
+			<head resp="#Ceriani1861">Fragmenta Parvae Genesis</head>
+
+			<gap reason="lost" unit="pages" quantity="82"/>
+
+			<pb n="62" ana="83" xml:id="palimpsest_page_062" change="#palimpsest"/>
+			<p part="F">
+				<s part="F">
+					<cb type="5c" n="a"/>
+					<lb xml:id="o083a1" facs="#a083a1" />
+					<milestone unit="ch" n="13"/>
+					<milestone unit="vs" n="10" xml:id="v13-10" corresp="#t13-10"/>
+					<w>et</w>
+					<w lemma="inhabitavit">inhabitauit</w>
+					<w>illic</w>
+					<lb type="msLine" xml:id="o083a2" facs="#a083a2" />
+					<w>annis</w>
+					<choice>
+						<abbr><w lemma="duobus">duob·</w></abbr>
+						<expan resp="#amc"><w>duobus</w></expan>
+					</choice>
+				</s>
+				<space quantity="7" unit="chars"/>
+				<s>
+					<lb type="msLine" xml:id="o083a3" facs="#a083a3" rend="ekthesis"/>
+					<w>Et</w>
+					<w>promouit</w>
+					<w>inde</w>
+					<lb type="msLine" xml:id="o083a4" facs="#a083a4" />
+					<w>in</w>
+					<w>austrum</w>
+					<choice>
+						<abbr><w lemma="usque">usq·</w></abbr>
+						<expan resp="#amc"><w>usque</w></expan>
+					</choice>
+					<placeName><w>ba<lb xml:id="o083a5" facs="#a083a5"/>halot</w></placeName>
+					<w>et</w>
+					<w>facta</w>
+					<w>est</w>
+					<lb xml:id="o083a6" facs="#a083a6"/>
+					<w>famis</w>
+					<w>super</w>
+					<choice>
+						<abbr><w lemma="terram">terra˙</w></abbr>
+						<expan resp="#amc"><w>terram</w></expan>
+					</choice>
+				</s>
+				<lb xml:id="o083a7" facs="#a083a7" />
+				<milestone unit="vs" n="11" xml:id="v13-11" corresp="#t13-11"/>
+				<s>
+					<w>et</w>
+					<w>abiit</w>
+					<persName><w lemma="Abraham">abram</w></persName>
+					<w>in</w>
+					<placeName><w>ae<lb xml:id="o083a8" facs="#a083a8" />gyptum</w></placeName>
+					<w>anno</w>
+					<w>tertio</w>
+					<lb xml:id="o083a9" facs="#a083a9" />
+					<w>septimani</w>
+					<w>et</w>
+					<w lemma="inhabitavit">inha<lb xml:id="o083a10" facs="#a083a10"/>bitauit</w>
+					<w>in</w>
+					<w>terram</w>
+					<lb xml:id="o083a11" facs="#a083a11" />
+					<placeName><w>aegypti</w></placeName>
+					<choice>
+						<abbr><w lemma="quinque">quinq·</w></abbr>
+						<expan><w>quinque</w></expan>
+					</choice>
+					<w>annis</w>
+					<lb xml:id="o083a12" facs="#a083a12" />
+					<w>priusquam</w>
+					<w>rapere<lb xml:id="o083a13" facs="#a083a13"/>tur</w>
+					<w>uxor</w>
+					<w>ipsius</w>
+					<w>ab</w>
+					<w>eo</w>
+				</s>
+				<s>
+					<lb xml:id="o083a14" facs="#a083a14" />
+					<milestone unit="vs" n="12" xml:id="v13-12" corresp="#t13-12"/>
+					<w>et</w>
+					<placeName><w>taneos</w></placeName>
+					<w>ciuitas</w>
+					<placeName><w>ae<lb xml:id="o083a15" facs="#a083a15"/>gypti</w></placeName>
+					<w>tunc</w>
+					<w>aedifica<lb xml:id="o083a16" facs="#a083a16"/>ta</w>
+					<w>est</w>
+					<w>annis</w>
+					<w>septem</w>
+					<lb xml:id="o083a17" facs="#a083a17" />
+					<w>post</w>
+					<placeName><w>cebron</w></placeName>
+				</s>
+				<space quantity="5" unit="chars"/>
+				<s>
+					<lb type="msLine" xml:id="o083a18" facs="#a083a18" rend="ekthesis"/>
+					<milestone unit="vs" n="13" xml:id="v13-13" corresp="#t13-13"/>
+					<w>Et</w>
+					<w>factum</w>
+					<w>est</w>
+					<w>cum</w>
+					<lb xml:id="o083a19" facs="#a083a19" />
+					<w>rapuisset</w>
+					<persName><w lemma="pharao">farao</w></persName>
+					<persName><w>sa<lb xml:id="o083a20" facs="#a083a20"/>ram</w></persName>
+					<w>uxorem</w>
+					<choice>
+						<abbr>
+							<persName><w lemma="Abraham">abra˙</w></persName>
+						</abbr>
+						<expan resp="#amc">
+							<persName><w lemma="Abraham">abram</w></persName>
+						</expan>
+					</choice>
+					<lb xml:id="o083a21" facs="#a083a21" />
+					<w lemma="quaero">quaestionauit</w>
+					<choice>
+						<abbr><persName><w lemma="dominus">dn&#x305;s</w></persName></abbr>
+						<expan><persName><w>dominus</w></persName></expan>
+					</choice>
+					<lb xml:id="o083a22" facs="#a083a22" />
+					<persName><w lemma="Pharaonem">faraonem</w></persName>
+					<w>et</w>
+					<choice>
+						<abbr><w lemma="domum">domu˙</w></abbr>
+						<expan resp="#amc"><w>domum</w></expan>
+					</choice>
+					<lb xml:id="o083a23" facs="#a083a23" />
+					<w>eius</w>
+					<choice>
+						<abbr><w lemma="quaestionibus">quaestionib·</w></abbr>
+						<expan resp="#amc"><w>quaestionibus</w></expan>
+					</choice>
+					<lb xml:id="o083a24" facs="#a083a24" />
+					<w>magnis</w>
+					<w>propter</w>
+					<cb type="5c" n="b"/>
+					<lb type="msLine" xml:id="o083b1" facs="#a083b1" />
+					<persName><w>saram</w></persName>
+					<w>uxorem</w>
+					<choice>
+						<abbr>
+							<persName><w lemma="Abraham">abr<unclear>a˙</unclear></w></persName>
+						</abbr>
+						<expan resp="#amc">
+							<persName><w lemma="Abraham">abram</w></persName>
+						</expan>
+					</choice>
+				</s>
+				<s>
+					<lb xml:id="o083b2" facs="#a083b2" />
+					<milestone unit="vs" n="14" xml:id="v13-14" corresp="#t13-14"/>
+					<w>et</w>
+					<w>tunc</w>
+					<persName><w lemma="Abraham">abram</w></persName>
+					<w lemma="glorificavit">glo<lb xml:id="o083b3" facs="#a083b3"/>rificauit</w>
+					<w>diuitiis</w>
+					<w>ual<lb xml:id="o083b4" facs="#a083b4"/>de</w>
+					<choice>
+						<abbr><w lemma="ombibus">omnib·</w></abbr>
+						<expan resp="#amc"><w>omnibus</w></expan>
+					</choice>
+					<choice>
+						<abbr><w lemma="ouibus">ouib·</w></abbr>
+						<expan resp="#amc"><w>ouibus</w></expan>
+					</choice>
+					<w>et</w>
+					<lb xml:id="o083b5" facs="#a083b5" />
+					<w>bubus</w>
+					<w>et</w>
+					<w>asinis</w>
+					<w>et</w>
+					<lb xml:id="o083b6" facs="#a083b6" />
+					<w>camelis</w>
+					<w>et</w>
+					<w>equis</w>
+					<w>et</w>
+					<lb xml:id="o083b7" facs="#a083b7" />
+					<w>seruis</w>
+					<w>et</w>
+					<w>ancillis</w>
+					<lb xml:id="o083b8" facs="#a083b8" />
+					<w>argento</w>
+					<w>et</w>
+					<w lemma="auro">aro</w>
+					<w>ual<lb xml:id="o083b9" facs="#a083b9"/>de</w>
+					<w>etenim</w>
+					<w>et</w>
+					<persName><w>loth</w></persName>
+					<lb xml:id="o083b10" facs="#a083b10" />
+					<w>filio</w>
+					<w>fratris</w>
+					<w>sui</w>
+					<w>e<lb xml:id="o083b11" facs="#a083b11"/>rant</w>
+					<w>diuitiae</w>
+				</s>
+				<milestone unit="vs" n="15" xml:id="v13-15" corresp="#t13-15"/>
+				<s>
+					<w>Et</w>
+					<w>red<lb xml:id="o083b12" facs="#a083b12"/>didit</w>
+					<persName><w lemma="Pharao">farao</w></persName>
+					<persName><w>saram</w></persName>
+					<lb xml:id="o083b13" facs="#a083b13" />
+					<w>uxorem</w>
+					<persName><w lemma="Abraham">abram</w></persName>
+					<w>ui<unclear resp="#trh">ro</unclear></w>
+					<lb xml:id="o083b14" facs="#a083b14" />
+					<w><unclear resp="#trh">s</unclear>uo</w>
+					<w>et</w>
+					<w>eiecit</w>
+					<w>eum</w>
+					<lb xml:id="o083b15" facs="#a083b15" />
+					<w>de</w>
+					<w>terra</w>
+					<placeName><w>aegypti</w></placeName>
+					<lb xml:id="o083b16" facs="#a083b16" />
+					<w>et</w>
+					<w>peruenit</w>
+					<w>in</w>
+					<choice>
+						<abbr><w lemma="locum">locu˙</w></abbr>
+						<expan resp="#amc"><w>locum</w></expan>
+					</choice>
+					<lb xml:id="o083b17" facs="#a083b17" />
+					<w>ubi</w>
+					<w>fixerat</w>
+					<w>taber<lb xml:id="o083b18" facs="#a083b18"/>naculum</w>
+					<w>suum</w>
+					<w>in</w>
+					<lb xml:id="o083b19" facs="#a083b19" />
+					<w>primis</w>
+					<w>in</w>
+					<w>locum</w>
+					<w>al<lb xml:id="o083b20" facs="#a083b20"/>tarii</w>
+					<placeName><w>agge</w></placeName>
+					<w>ad</w>
+					<w>orien<lb xml:id="o083b21" facs="#a083b21"/>tis</w>
+					<w>partem</w>
+					<w>et</w>
+					<placeName><w>betel</w></placeName>
+					<lb xml:id="o083b22" facs="#a083b22" />
+					<w>a</w>
+					<w>mare</w>
+					<w>et</w>
+					<w>benedixit</w>
+					<lb xml:id="o083b23" facs="#a083b23" />
+					<choice>
+						<abbr><persName><w lemma="dominum">dnm</w></persName></abbr>
+						<expan resp="#amc"><persName><w>dominum</w></persName></expan>
+					</choice>
+					<choice>
+						<abbr><persName><w lemma="deum">dm</w></persName></abbr>
+						<expan resp="#amc"><persName><w>deum</w></persName></expan>
+					</choice>
+					<w>suum</w>
+					<w>qui</w>
+					<lb xml:id="o083b24" facs="#a083b24" />
+					<w>reuocauit</w>
+					<w>eum</w>
+					<w>in</w>
+					<w lemma="pace">pa<lb xml:id="o083b25" facs="#a083b25" rend="orphan"/>ce</w>
+				</s>
+
+				<pb n="61" ana="84" xml:id="palimpsest_page_061" change="#palimpsest"/>
+				<s>
+					<cb type="5c" n="a"/>
+					<lb xml:id="o084a1" facs="#a084a1" rend="ekthesis"/>
+					<milestone unit="vs" n="16" xml:id="v13-16" corresp="#t13-16"/>
+					<w>Et</w>
+					<w>factum</w>
+					<w>est</w>
+					<w>in</w>
+					<app>
+						<lem wit="#A">
+							<choice>
+								<abbr><w lemma="quadragesimo">qa&#x305;<lb xml:id="o084a2" facs="#a084a2" />dragensimo</w></abbr>
+								<expan resp="#amc"><w>quadragensimo</w></expan>
+							</choice>
+						</lem>
+						<rdg source="#amd"><w>quadragesimo</w></rdg>
+					</app>
+					<w>et</w>
+					<w>primo</w>
+					<lb xml:id="o084a3" facs="#a084a3" />
+					<w>iubeleo</w>
+					<w>anno</w>
+					<w>tert<unclear resp="#amc">io</unclear></w>
+					<lb xml:id="o084a4" facs="#a084a4" />
+					<w>ebdomadarum</w>
+					<w>pri<lb xml:id="o084a5" facs="#a084a5" />mi</w>
+					<w>reuersus</w>
+					<w>est</w>
+					<w>in</w>
+					<lb xml:id="o084a6" facs="#a084a6" />
+					<w>locum</w>
+					<w>hunc</w>
+					<w>et</w>
+					<w>obtu<lb xml:id="o084a7" facs="#a084a7" />lit</w>
+					<w>olocaustomata</w>
+					<lb xml:id="o084a8" facs="#a084a8" />
+					<w>et</w>
+					<w>inuocauit</w>
+					<w>in</w>
+					<w>no<lb xml:id="o084a9" facs="#a084a9" />mine</w>
+					<choice>
+						<abbr><persName><w lemma="domini">dni</w></persName></abbr>
+						<expan resp="#amc"><persName><w>domini</w></persName></expan>
+					</choice>
+					<q>
+						<w>tu</w>
+						<w>es</w>
+						<choice>
+							<abbr><persName><w lemma="deus">ds</w></persName></abbr>
+							<expan resp="#amc"><persName><w>deus</w></persName></expan>
+						</choice>
+						<w>ex<lb xml:id="o084a10" facs="#a084a10" />celsus</w>
+						<pc type="ed">,</pc>
+						<choice>
+							<abbr><persName><w lemma="deus">ds</w></persName></abbr>
+							<expan resp="#amc"><persName><w>deus</w></persName></expan>
+						</choice>
+						<w>meus</w>
+						<w>in</w>
+						<lb xml:id="o084a11" facs="#a084a11" />
+						<w>saecula</w>
+						<choice>
+							<abbr><w lemma="saeculorum">saeculoru˙</w></abbr>
+							<expan resp="#amc"><w>saeculorum</w></expan>
+						</choice>
+					</q>
+				</s>
+			</p>
+			<p>
+				<lb xml:id="o084a12" facs="#a084a12" rend="ekthesis"/>
+				<milestone unit="vs" n="17" xml:id="v13-17" corresp="#t13-17"/>
+				<s>
+					<w>Et</w>
+					<w>in</w>
+					<w>no</w> <!-- ???? -->
+					<w>quarto</w>
+					<w>septi<lb xml:id="o084a13" facs="#a084a13" />manarum</w>
+					<w>huius</w>
+					<w>se<lb xml:id="o084a14" facs="#a084a14" />paratus</w>
+					<w>est</w>
+					<persName><w>loth</w></persName>
+					<w>ab</w>
+					<lb xml:id="o084a15" facs="#a084a15" />
+					<w>ipso</w>
+					<w>et</w>
+					<w>inhabitauit</w>
+					<lb xml:id="o084a16" facs="#a084a16" />
+					<placeName><w>sodomis</w></placeName>
+				</s>
+				<s>
+					<w>et</w>
+					<w>homines</w>
+					<lb xml:id="o084a17" facs="#a084a17" />
+					<placeName><w>sodomitae</w></placeName>
+					<w>pecca<lb xml:id="o084a18" facs="#a084a18" />tores</w>
+					<w>erant</w>
+					<w>ualde</w>
+					<lb xml:id="o084a19" facs="#a084a19" />
+					<w>et</w>
+					<w>iniqui</w>
+					<w>in</w>
+					<choice>
+						<abbr><w lemma="cordibus">cordib·</w></abbr>
+						<expan resp="#amc"><w>cordibus</w></expan>
+					</choice>
+					<lb xml:id="o084a20" facs="#a084a20" />
+					<w>suis</w>
+				</s>
+				<s>
+					<milestone unit="vs" n="18" xml:id="v13-18" corresp="#t13-18"/>
+					<w>propter</w>
+					<w>quod</w>
+					<lb xml:id="o084a21" facs="#a084a21" />
+					<w>separatus</w>
+					<w>est</w>
+					<persName><w>loth</w></persName>
+					<lb xml:id="o084a22" facs="#a084a22" />
+					<w>filius</w>
+					<w>fratris</w>
+					<w>sui</w>
+					<w>ab</w>
+					<lb xml:id="o084a23" facs="#a084a23" />
+					<w>eo</w>
+					<pc type="ed">,</pc>
+					<w>eo</w>
+					<w>quod</w>
+					<w>non</w>
+					<w>erant</w>
+					<lb xml:id="o084a24" facs="#a084a24" />
+					<w>illi</w>
+					<w>filii</w>
+				</s>
+				<s>
+					<milestone unit="vs" n="19" xml:id="v13-19" corresp="#t13-19"/>
+					<w>captiuatus</w>
+					<w>est</w>
+					<cb type="5c" n="b"/>
+					<lb type="msLine" xml:id="o084b1" facs="#a084b1" />
+					<persName><w>loth</w></persName>
+					<w>ab</w>
+					<pc type="ms">·</pc>
+					<w>ipso</w>
+					<pc type="ms">·</pc>
+				</s>
+				<s>
+					<w>In</w>
+					<w>quar<lb xml:id="o084b2" facs="#a084b2" />to</w>
+					<w>autem</w>
+					<w>anno</w>
+					<w>sep<lb xml:id="o084b3" facs="#a084b3" />timani</w>
+					<w>huius</w>
+					<w>iubelei</w>
+					<lb xml:id="o084b4" facs="#a084b4" />
+					<w>ipsius</w>
+					<w>dixit</w>
+					<persName><w>deus</w></persName>
+					<w>ad</w>
+					<persName><w lemma="Abraham">abram</w></persName>
+					<lb xml:id="o084b5" facs="#a084b5" />
+					<q>
+						<s>
+							<w>eleua</w>
+							<w>oculos</w>
+							<w>tuos</w>
+							<lb xml:id="o084b6" facs="#a084b6" />
+							<w>de</w>
+							<w>loco</w>
+							<w>ubi</w>
+							<w>sedes</w>
+							<w>tu</w>
+							<lb xml:id="o084b7" facs="#a084b7" />
+							<w>ad</w>
+							<w>occasum</w>
+							<w>et</w>
+							<placeName resp="#hr"><w>afri<lb type="inWord" xml:id="o084b8" facs="#a084b8" />cum</w></placeName>
+							<w>et</w>
+							<w>orientem</w>
+							<lb xml:id="o084b9" facs="#a084b9" />
+							<w>et</w>
+							<w>septentrionem</w>
+							<lb xml:id="o084b10" facs="#a084b10" />
+							<milestone unit="vs" n="20" xml:id="v13-20" corresp="#t13-20"/>
+							<w>quoniam</w>
+							<w>omnem</w>
+							<lb xml:id="o084b11" facs="#a084b11" />
+							<w>terram</w>
+							<app>
+								<lem wit="#A"><w>quan</w></lem>
+								<rdg source="#hr"><w>quam</w></rdg>
+							</app>
+							<w>tu</w>
+							<w>ui<lb xml:id="o084b12" facs="#a084b12" />des</w>
+							<w>tibi</w>
+							<w>et</w>
+							<w>semini</w>
+							<w>tuo</w>
+							<lb xml:id="o084b13" facs="#a084b13" />
+							<w>dabo</w>
+							<w>eam</w>
+							<w>in</w>
+							<w>saecula</w>
+							<lb xml:id="o084b14" facs="#a084b14" />
+							<w>et</w>
+							<w>ponam</w>
+							<w>semen</w>
+							<lb xml:id="o084b15" facs="#a084b15" />
+							<w>tuum</w>
+							<w>sicut</w>
+							<w>harena</w>
+							<lb xml:id="o084b16" facs="#a084b16" />
+							<w>maris</w>
+							<w>etenim</w>
+							<w>semen</w>
+							<lb xml:id="o084b17" facs="#a084b17" />
+							<w>tuum</w>
+							<w>non</w>
+							<w>enume<lb xml:id="o084b18" facs="#a084b18" />rabitur</w>
+							<choice>
+								<sic>˙</sic>
+								<corr/>
+							</choice>
+						</s>
+						<milestone unit="vs" n="21" xml:id="v13-21" corresp="#t13-21"/>
+						<s>
+							<w>Et</w>
+							<w>tu</w>
+							<w>ex<lb xml:id="o084b19" facs="#a084b19" />surgens</w>
+							<w>perambu<lb xml:id="o084b20" facs="#a084b20" />la</w>
+							<w>latitudinem</w>
+							<w>eius</w>
+							<lb xml:id="o084b21" facs="#a084b21" />
+							<w>et</w>
+							<w>uide</w>
+							<w>uniuersa</w>
+							<w>quia</w>
+							<lb xml:id="o084b22" facs="#a084b22" />
+							<w>semini</w>
+							<w>tuo</w>
+							<w>dabo</w>
+							<w>eam</w>
+						</s>
+					</q>
+				</s>
+				<lb xml:id="o084b23" facs="#a084b23" rend="ekthesis"/>
+				<s part="I">
+					<w>Et</w>
+					<w>abiit</w>
+					<persName><w lemma="Abraham">abram</w></persName>
+					<w>in</w>
+					<placeName><w>ce<lb xml:id="o084b24" facs="#a084b24" />bron</w></placeName>
+					<w>et</w>
+					<w>inhabitauit</w>
+				</s>
+			</p>
+			<pb type="5c" n="end"/>
+			<gap quantity="8" unit="pages" reason="lost"/>
+
+      </div>
+    </body>
+    <back xml:lang="en">
+			<div xml:id="translation">
+				<div xml:id="LatinJubileesTranslation">
+				<head>Latin Jubilees</head>
+
+
+<p>
+	<milestone unit="ch" n="13"/>
+	<milestone unit="vs" n="10" xml:id="t13-10" corresp="#v13-10"/>...  he stayed there for two years. Then he went to the southern territory as far as Bahalot. There was a famine in the land. <milestone unit="vs" n="11" xml:id="t13-11" corresp="#v13-11"/>So Abram went to Egypt in the third year of the week. He lived in the land of Egypt for five years before his wife was taken from him by force. <milestone unit="vs" n="12" xml:id="t13-12" corresp="#v13-12"/>Tanais, the Egyptian city, was built at that time — seven years after Hebron. <milestone unit="vs" n="13" xml:id="t13-13" corresp="#v13-13"/>When the pharaoh took Abram's wife Sarah by force, the Lord punished the pharaoh and his household very severely because of Abram's wife Sarah. <milestone unit="vs" n="14" xml:id="t13-14" corresp="#v13-14"/>At that time he made Abram extremely wealthy with all (kinds of) sheep, cattle, donkeys, camels, horses, male and female servants, silver and very (much) gold. Lot — his brother's son — was also wealthy. <milestone unit="vs" n="15" xml:id="t13-15" corresp="#v13-15"/>The pharaoh returned Abram's wife Sarah to her husband and expelled him from the land of Egypt. He went to the place where he had first pitched his tent — at the location of the altar, with Ai on the east side and Bethel on the west. He blessed the Lord his God who had brought him back safely.<milestone unit="vs" n="16" xml:id="t13-16" corresp="#v13-16"/>During the forty-first jubilee, in the third year of the first week, he returned to this place. He offered sacrifices and called on the Lord's name: 'You, most high God, are my God forever and ever'.</p>
+<p>
+   <milestone unit="vs" n="17" xml:id="t13-17" corresp="#v13-17"/>In the fourth year of this week Lot separated from him. He settled in Sodom. Now the Sodomite people were very sinful. <milestone unit="vs" n="18" xml:id="t13-18" corresp="#v13-18"/>They were evil in their hearts that Lot, his brother's son, had separated from him for he had no children. <milestone unit="vs" n="19" xml:id="t13-19" corresp="#v13-19"/>Lot was taken captive from him. But in the fourth year of this week — of the same jubilee — God said to Abram: 'Look up from where you are staying toward the west, the south, the east, and the north; <milestone unit="vs" n="20" xml:id="t13-20" corresp="#v13-20"/>because all the land which you see I will give to you and your descendants forever. I will make your descendants like the sands of the sea, for your descendants will not be counted. <milestone unit="vs" n="21" xml:id="t13-21" corresp="#v13-21"/>Now you — get up and walk its width. Look at everything because I will give it to your descendants'. Then Abram went to Hebron and lived ...</p>
+	
+	 </div>
+
+			</div>
+
+      <div xml:id="bibliography">
+        <head>Bibliography</head>
+				<listBibl>
+					<biblStruct type="book" xml:id="Ceriani1861" corresp="http://zotero.org/users/6712788/items/RFQLPCSP">
+						<monogr>
+							<title level="m">
+								Fragmenta Latina evangelii S. Lucae, Parvae Genesis et Assumptionis Mosis, 
+								Baruch, Threni et Epistola Jeremiae versionis Syriacae Pauli Telensis: 
+								cum notis et initio prolegomenon in integram ejusdem versionis editionem
+							</title>
+							<title type="short">Fragmenta</title>
+							<idno type="ISBN">978-0-524-02769-1</idno>
+							<author>
+								<forename>Antonio Maria</forename>
+								<surname>Ceriani</surname>
+							</author>
+							<imprint>
+								<pubPlace>Milan</pubPlace>
+								<publisher>Typis et impensis Bibliothecae Ambrosianae</publisher>
+								<date>1861</date>
+							</imprint>
+						</monogr>
+						<series>
+							<title level="s">Monumenta Sacra et Profana ex Codiciubus praesertim Bibliotheca Ambrosiana</title>
+							<biblScope unit="volume">1</biblScope>
+						</series>
+					</biblStruct>
+					<biblStruct type="book" xml:id="Denis1973" corresp="http://zotero.org/users/6712788/items/LEF7WHKD">
+						<monogr>
+							<title level="m">Concordance latine du Liber Jubilaeorum sive Parva Genesis</title>
+							<author>
+								<forename>A. M.</forename>
+								<surname>Denis</surname>
+							</author>
+							<imprint>
+								<pubPlace>Louvain</pubPlace>
+								<publisher>CETEDOC</publisher>
+								<date>1973</date>
+							</imprint>
+						</monogr>
+						<series>
+							<title level="s">Informatique et étude de textes</title>
+							<biblScope unit="volume">4</biblScope>
+						</series>
+					</biblStruct>
+					<biblStruct type="webpage" xml:id="Scott" corresp="http://zotero.org/users/6712788/items/SJ6JE36K">
+						<analytic>
+							<title level="a">The Online Critical Pseudepigrapha</title>
+							<editor>
+								<forename>Ian W.</forename>
+								<surname>Scott</surname>
+							</editor>
+							<editor>
+								<forename>Kenneth M.</forename>
+								<surname>Penner</surname>
+							</editor>
+							<editor>
+								<forename>David M.</forename>
+								<surname>Miller</surname>
+							</editor>
+						</analytic>
+						<monogr>
+							<imprint>
+								<date>2006–</date>
+								<note type="url">https://pseudepigrapha.org/</note>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+      <div xml:id="prosopography">
+        <head>Prosopography</head>
+      </div>
+			<div xml:id="about">
+				<head>About This Document and Its Source Manuscript</head>
+			</div>
+    </back>
+  </text>
+</TEI>

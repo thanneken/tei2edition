@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Mirador</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+	#viewer {width: 100%;height: 100%;position: fixed;}
+</style>
+<!--
+<script scr="https://unpkg.com/mirador@alpha/dist/mirador.min.js"></script>
+<script src="https://unpkg.com/mirador@rc/dist/mirador.min.js"></script>
+<script src="../mirador3/mirador.min.js"></script>
+-->
+<script>document.write("<script type='text/javascript' src='https://mirador-dev.netlify.app/dist/mirador.min.js?v=" + Date.now() + "'><\/script>");</script>
+</head>
+<body>
+	<div id="viewer"></div>
+	<script type="text/javascript">
+		const mirador=Mirador.viewer({
+			id: "viewer",
+			catalog: [
+				{ manifestId: 'iiif/manifest.json' }
+			],
+			window: { //global window defaults
+					allowClose: true, // Configure if windows can be closed or not
+					allowFullscreen: true, // Configure to show a "fullscreen" button in the WindowTopBar
+					allowMaximize: true, // Configure if windows can be maximized or not
+					allowTopMenuButton: true, // Configure if window view and thumbnail display menu are visible or not
+					allowWindowSideBar: true, // Configure if side bar menu is visible or not
+					authNewWindowCenter: 'parent', // Configure how to center a new window created by the authentication flow. Options: parent, screen
+					sideBarPanel: 'layers', // Configure which sidebar is selected by default. Options: info, attribution, canvas, annotations, search
+					defaultSidebarPanelHeight: 201,  // Configure default sidebar height in pixels
+					defaultSidebarPanelWidth: 235, // Configure default sidebar width in pixels
+					defaultView: 'gallery',  // Configure which viewing mode for windows to be opened in
+					forceDrawAnnotations: false,
+					hideWindowTitle: false, // Configure if the window title is shown in the window title bar or not
+					highlightAllAnnotations: false, // Configure whether to display annotations on the canvas by default
+					showLocalePicker: false, // Configure locale picker for multi-lingual metadata
+					sideBarOpen: true, // Configure if the sidebar  is open by default
+					panels: { // Configure which panels are visible in WindowSideBarButtons
+						info: true,
+						attribution: true,
+						canvas: true,
+						annotations: true,
+						search: true,
+						layers: true,
+					},
+					views: [
+						{ key: 'single', behaviors: ['individuals'] },
+						{ key: 'gallery' } 
+					]
+			}
+		});
+	</script>
+
+</body>
+</html>

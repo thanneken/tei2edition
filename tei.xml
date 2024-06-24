@@ -271,7 +271,7 @@
   </teiHeader>
 
 	<facsimile>
-		<surface xml:id="a083" corresp="https://palimpsest.stmarytx.edu/iiifp/LatinMoses/canvas/5c083" n="Page 083 (19c062)" start="#t083" ulx="0" uly="0" lrx="6132" lry="8176">
+		<surface xml:id="a083" corresp="https://palimpsest.stmarytx.edu/iiifp/LatinMoses/canvas/5c083" n="Jub 13:10-15, page 83 (renumbered 62)" start="#t083" ulx="0" uly="0" lrx="6132" lry="8176">
 			<graphic width="6132" height="8176" n="Accurate Color Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_00.jp2/full/full/0/default.jpg" />
 			<graphic width="6132" height="8176" n="Accurate Color Raking NE" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_51.jp2/full/full/0/default.jpg" />
 			<graphic width="6132" height="8176" n="Accurate Color Raking SE" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_062_Ac_55.jp2/full/full/0/default.jpg" />
@@ -334,7 +334,7 @@
 			<line xml:id="a083b24" corresp="#o083b24" ulx="3096" lrx="5296" uly="6540" lry="6744" />
 			<line xml:id="a083b25" corresp="#o083b25" ulx="5064" lrx="5286" uly="6662" lry="6770" />
 		</surface>
-		<surface xml:id="a084" corresp="https://palimpsest.stmarytx.edu/iiifp/LatinMoses/canvas/5c084" n="Page 084 (19c061)" start="#t084" ulx="0" uly="0" lrx="6132" lry="8176">
+		<surface xml:id="a084" corresp="https://palimpsest.stmarytx.edu/iiifp/LatinMoses/canvas/5c084" n="Jub 13:16-21, page 84 (renumbered 61)" start="#t084" ulx="0" uly="0" lrx="6132" lry="8176">
 			<graphic width="6132" height="8176" n="Accurate Color Diffuse" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_00.jp2/full/full/0/default.jpg" />
 			<graphic width="6132" height="8176" n="Accurate Color Raking NE" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_07.jp2/full/full/0/default.jpg" />
 			<graphic width="6132" height="8176" n="Accurate Color Raking SE" url="https://palimpsest.stmarytx.edu/iiif/Ambrosiana_C73inf_061_Ac_02.jp2/full/full/0/default.jpg" />

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+   <w:body>
+      <w:p>
+         <w:pPr>
+            <w:pStyle w:val="Title"/>
+         </w:pPr>
+         <w:r>
+            <w:t>Latin Moses</w:t>
+         </w:r>
+      </w:p>
+      <w:p>
+         <w:pPr>
+            <w:pStyle w:val="Heading1"/>
+         </w:pPr>
+         <w:r>
+            <w:t>Fragmenta Parvae Genesis</w:t>
+         </w:r>
+      </w:p>
+      <w:p>
+         <w:r>
+            <w:t> 13:10 …et inhabitauit illic annis duobus. Et promouit inde in austrum usque Bahalot et facta est famis super terram.  13:11 Et abiit Abram in Aegyptum anno tertio septimani et inhabitauit in terram Aegypti quinque annis priusquam raperetur uxor ipsius ab eo.  13:12 Et Taneos ciuitas Aegypti tunc aedificata est annis septem post Cebron.  13:13 Et factum est cum rapuisset Farao Saram uxorem Abram quaestionauit Dominus Faraonem et domum eius quaestionibus magnis propter Saram uxorem Abram.  13:14 Et tunc Abram glorificauit diuitiis ualde omnibus ouibus et bubus et asinis et camelis et equis et seruis et ancillis argento et aro ualde etenim et Loth filio fratris sui erant diuitiae.  13:15 Et reddidit Farao Saram uxorem Abram uiro suo et eiecit eum de terra Aegypti et peruenit in locum ubi fixerat tabernaculum suum in primis in locum altarii Agge ad orientis partem et Betel a mare et benedixit Dominum Deum suum qui reuocauit eum in pace.  13:16 Et factum est in [A quadragensimo][Denis quadragesimo] et primo iubeleo anno tertio ebdomadarum primi reuersus est in locum hunc et obtulit olocaustomata et inuocauit in nomine Domini, “Tu es Deus excelsus, Deus meus in saecula saeculorum.” </w:t>
+         </w:r>
+      </w:p>
+      <w:p>
+         <w:r>
+            <w:t> 13:17 Et in no quarto septimanarum huius separatus est Loth ab ipso et inhabitauit Sodomis. Et homines Sodomitae peccatores erant ualde et iniqui in cordibus suis.  13:18 Propter quod separatus est Loth filius fratris sui ab eo, eo quod non erant illi filii.  13:19 Captiuatus est Loth ab ipso. In quarto autem anno septimani huius iubelei ipsius dixit Deus ad Abram, “Eleua oculos tuos de loco ubi sedes tu ad occasum et Africum et orientem et septentrionem 13:20  quoniam omnem terram [A quan][Rönsch quam] tu uides tibi et semini tuo dabo eam in saecula et ponam semen tuum sicut harena maris etenim semen tuum non enumerabitur.  13:21 Et tu exsurgens perambula latitudinem eius et uide uniuersa quia semini tuo dabo eam.” Et abiit Abram in Cebron et inhabitauit… </w:t>
+         </w:r>
+      </w:p>
+      <w:p>
+         <w:pPr>
+            <w:pStyle w:val="Heading2"/>
+         </w:pPr>
+         <w:r>
+            <w:t>Latin Jubilees</w:t>
+         </w:r>
+      </w:p>
+      <w:p>
+         <w:r>
+            <w:t> 13:10 ...  he stayed there for two years. Then he went to the southern territory as far as Bahalot. There was a famine in the land.  13:11 So Abram went to Egypt in the third year of the week. He lived in the land of Egypt for five years before his wife was taken from him by force.  13:12 Tanais, the Egyptian city, was built at that time — seven years after Hebron.  13:13 When the pharaoh took Abram's wife Sarah by force, the Lord punished the pharaoh and his household very severely because of Abram's wife Sarah.  13:14 At that time he made Abram extremely wealthy with all (kinds of) sheep, cattle, donkeys, camels, horses, male and female servants, silver and very (much) gold. Lot — his brother's son — was also wealthy.  13:15 The pharaoh returned Abram's wife Sarah to her husband and expelled him from the land of Egypt. He went to the place where he had first pitched his tent — at the location of the altar, with Ai on the east side and Bethel on the west. He blessed the Lord his God who had brought him back safely. 13:16 During the forty-first jubilee, in the third year of the first week, he returned to this place. He offered sacrifices and called on the Lord's name: 'You, most high God, are my God forever and ever'.</w:t>
+         </w:r>
+      </w:p>
+      <w:p>
+         <w:r>
+            <w:t> 13:17 In the fourth year of this week Lot separated from him. He settled in Sodom. Now the Sodomite people were very sinful.  13:18 They were evil in their hearts that Lot, his brother's son, had separated from him for he had no children.  13:19 Lot was taken captive from him. But in the fourth year of this week — of the same jubilee — God said to Abram: 'Look up from where you are staying toward the west, the south, the east, and the north;  13:20 because all the land which you see I will give to you and your descendants forever. I will make your descendants like the sands of the sea, for your descendants will not be counted.  13:21 Now you — get up and walk its width. Look at everything because I will give it to your descendants'. Then Abram went to Hebron and lived ...</w:t>
+         </w:r>
+      </w:p>
+      <w:sectPr>
+         <w:pgSz w:w="12240" w:h="15840"/>
+         <w:pgMar w:top="1440"
+                  w:right="1440"
+                  w:bottom="1440"
+                  w:left="1440"
+                  w:header="720"
+                  w:footer="720"
+                  w:gutter="0"/>
+         <w:cols w:space="720"/>
+         <w:docGrid w:linePitch="360"/>
+      </w:sectPr>
+   </w:body>
+</w:document>

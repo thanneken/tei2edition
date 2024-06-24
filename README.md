@@ -51,12 +51,15 @@ Nomina sacra and abbreviations are presented as seen in the manuscript and expan
 Aids to the reader include chapter and verse milestones, apparatus, hyphens when a line breaks inside a word, and links to Perseus morphological analysis.
 In TEI, this requires elements such as `pb`, `cb`, `lb`, `choice`, `abbr`, etc.
 
-The additional tool included here is a spreadsheet of all words in the text. 
+Two additional tools are included here for the work of editing, not for end users. 
+The first additional tool is a spreadsheet of all words in the text. 
 The spreadsheet includes the five words preceding and following. 
 The location in the manuscript is given as page, column, and line.
 The location in scholarly convention is given as chapter and verse. 
 Other attributes include whether the word is from the manuscript or editors, is a place name, and is a person name.
 Using the filter and sort functions in software such as Microsoft Excel provides information associated with concordances and other tools.
+The second additional tool is a DOCX file for Microsoft Word. 
+The apparatus and notes are presented inline with the text and the visualization is generally light on formatting.
 
 ## Files
 
@@ -82,6 +85,7 @@ The BASH files also provide TEI validity checking.
 - `derivecsv.bash`  for the spreadsheet of words
 - `derivehtml.bash` for the hypertext edition
 - `derivepdf.bash` for the “print” edition
+- `derivedocx.bash` for the Microsoft Word tool
 
 All dependencies are freely available, common, and well supported.
 XSLT transformation to Latex, HTML, and CSV relies on Saxon (on Java).
@@ -99,6 +103,7 @@ Changes to these files could be very simple or very complex.
 - `tei2html.xsl` specifies the visualization of the hypertext edition.
 - `tei2latex.xsl` specifies the visualization of the “print” edition.
 - `tei2csv.xsl` specifies the information presented in the spreadsheet of words.
+- `tei2docx.xsl` specifies the visualization for the Microsoft Word tool.
 - `tei_tc.odd` is the more human readable file for validating the TEI encoding. If you add TEI elements not already included (and get a validation error) you could add them here. 
 
 ### Output files only for visualization, not to be edited
@@ -109,10 +114,12 @@ If you do edit them (e.g., the spreadsheet), be sure to save it to a different l
 - `mirador.html` loads Mirador and the Presentation manifest. Other instances of Mirador are fully interoperable.
 - `iiif/manifest.json` is the IIIF Presentation manifest providing the information for visualization in Mirador.
 - `iiif/<annotations>.json` are the annotation files that provide line-by-line transcription mapped to the images of the manuscript.
+- `ooxml/' is the directory of files used to build the DOCX file. Only `document.xml` is overwritten by `derivedocx.bash`.
 - `text.latex` is the intermediary file between TEI and PDF. It is editable, but in principle it would be better to make changes in `tei.xml` or `tei2latex.xsl`.
 - `text.pdf` is the “print’ edition.
 - `text.html` is the hypertext edition.
 - `words.csv` is the spreadsheet of words. 
+- `text.docx` is the Microsoft Word tool.
 - `tei_tc.dtd` is the not very human readable file for validating the TEI encoding. Changes to the ODD file above will be applied by the BASH scripts.
 
 ### Files about the repository
@@ -124,13 +131,14 @@ Two files describe the GitHub repository.
 
 ## Roadmap
 
-The next priority is to output to DOCX for publishers and collaborators to edit in Microsoft Word. 
+Improvements are planned for the Microsoft Word DOCX tool, but it is not planned to be polished for end users.
 
 The XSL files accumulated across time and should be cleaned up. 
 
 ## Credit
 
-The XSL files rely on the [Stylesheets](https://github.com/TEIC/Stylesheets) released by the TEI Consortium for education, inspiration, and specific code (especially for the latex transformation).
+The XSL files rely on the [Stylesheets](https://github.com/TEIC/Stylesheets) released by the TEI Consortium for education and inspiration. 
+The code for transformation to latex (for PDF) builds on the code written by Marjorie Burghart for the TEI Critical Apparatus Toolbox.
 
 The work presented here has been made possible by the generous support of the U.S. National Endowment for the Humanities ([NEH](http://www.neh.gov/)). 
 

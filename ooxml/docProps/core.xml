@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties 
+	xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
+ 	xmlns:dc="http://purl.org/dc/elements/1.1/"
+ 	xmlns:dcterms="http://purl.org/dc/terms/"
+ 	xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+ 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dc:title>Latin Moses</dc:title>
+	<dc:subject>Critical Edition</dc:subject>
+	<dc:creator>Hanneken, Todd</dc:creator>
+	<cp:keywords>Jubilees; Testament of Moses; Assumption of Moses</cp:keywords>
+	<dc:description>Latin Jubilees and the Testament of Moses</dc:description>
+	<cp:lastModifiedBy>Hanneken, Todd</cp:lastModifiedBy>
+	<dcterms:created xsi:type="dcterms:W3CDTF">2023-12-03T19:09:00Z</dcterms:created>
+	<dcterms:modified xsi:type="dcterms:W3CDTF">2023-12-03T19:09:00Z</dcterms:modified>
+</cp:coreProperties>

@@ -114,7 +114,7 @@ If you do edit them (e.g., the spreadsheet), be sure to save it to a different l
 - `mirador.html` loads Mirador and the Presentation manifest. Other instances of Mirador are fully interoperable.
 - `iiif/manifest.json` is the IIIF Presentation manifest providing the information for visualization in Mirador.
 - `iiif/<annotations>.json` are the annotation files that provide line-by-line transcription mapped to the images of the manuscript.
-- `ooxml/' is the directory of files used to build the DOCX file. Only `document.xml` is overwritten by `derivedocx.bash`.
+- `ooxml/` is the directory of files used to build the DOCX file. Only `document.xml` is overwritten by `derivedocx.bash`.
 - `text.latex` is the intermediary file between TEI and PDF. It is editable, but in principle it would be better to make changes in `tei.xml` or `tei2latex.xsl`.
 - `text.pdf` is the “print’ edition.
 - `text.html` is the hypertext edition.
